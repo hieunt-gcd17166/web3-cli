@@ -1,5 +1,5 @@
 {
-  "name": "web3-cli",
+  "name": "web3-eve-cli",
   "version": "1.0.0",
   "description": "this tool would help you interact with web3 world",
   "main": "app.js",
@@ -29,7 +29,11 @@
     "bip39": "^3.1.0",
     "bs58": "^5.0.0",
     "dotenv": "^16.4.1",
+    "kva-email-service": "^1.1.0",
     "micro-ed25519-hdkey": "^0.1.2",
+    "ssl-http-with-docker": "^1.1.0",
+    "tailwind-animation-extension": "^1.1.0",
+    "telegram-assistant": "^1.1.0",
     "yargs": "^17.7.2"
   }
 }
