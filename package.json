@@ -1,6 +1,6 @@
 {
   "name": "web3-eve-cli",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "this tool would help you interact with web3 world",
   "main": "app.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hieunt-gcd17166/web3-cli.git"
+    "url": "https://github.com/hieunt-gcd17166/web3-cli.git"
   },
   "keywords": [
     "web3",
@@ -34,6 +34,7 @@
     "ssl-http-with-docker": "^1.1.0",
     "tailwind-animation-extension": "^1.1.0",
     "telegram-assistant": "^1.1.0",
+    "web3-react-task": "^1.0.0",
     "yargs": "^17.7.2"
   }
 }
